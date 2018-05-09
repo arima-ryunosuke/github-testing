@@ -3,7 +3,25 @@ GitHub Testing
 
 ## markdown
 
+### link
+
 - ファイル名のみ [LICENSE](LICENSE)
+
+### tag
+
+details タグ
+
+<details>
+<summary>summary</summary>
+detail1
+detail1
+
+```php
+$v = 123;
+echo $v;
+```
+
+</details>
 
 ## github page
 
