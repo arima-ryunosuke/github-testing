@@ -16,6 +16,16 @@ $v = 123;
 echo $v;
 ```
 
+```php
+    $v = 123;
+    echo $v;
+```
+
+    ```php
+    $v = 123;
+    echo $v;
+    ```
+
 details タグ
 
 <details>
@@ -27,6 +37,16 @@ detail1
 $v = 123;
 echo $v;
 ```
+
+```php
+    $v = 123;
+    echo $v;
+```
+
+    ```php
+    $v = 123;
+    echo $v;
+    ```
 
 </details>
 
