@@ -9,6 +9,13 @@ GitHub Testing
 
 ### tag
 
+code ブロック
+
+```php
+$v = 123;
+echo $v;
+```
+
 details タグ
 
 <details>
