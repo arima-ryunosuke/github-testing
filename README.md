@@ -21,6 +21,11 @@ $v = 123;
 echo $v;
 ```
 
+```php filename
+$v = 123;
+echo $v;
+```
+
 a
 ```php
 $v = 123;
