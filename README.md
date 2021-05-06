@@ -7,6 +7,17 @@ GitHub Testing
 
 - ファイル名のみ [LICENSE](LICENSE)
 
+### code
+
+`` `code` ``
+
+````
+```
+code
+```
+````
+
+
 ### tag
 
 code ブロック
